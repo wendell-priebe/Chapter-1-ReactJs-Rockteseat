@@ -1,5 +1,5 @@
 import './styles/global.scss';
-import {RepositoryList} from './components/RepositoryList.jsx'
+import {RepositoryList} from './components/RepositoryList'
 
 
 
